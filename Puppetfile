@@ -59,3 +59,30 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+# Core
+github "osx"               # https://github.com/boxen/puppet-osx
+github "chrome"
+github "iterm2"
+github "alfred"
+
+# Core Development
+github "sublime_text"      #
+github "github_for_mac"
+
+# Web Development
+github "firefox"
+github "postgresapp"
+github "sequel_pro"
+
+# Virtualization
+github "virtualbox"        # https://github.com/boxen/puppet-virtualbox
+github "vagrant"           # https://github.com/boxen/puppet-vagrant
+github "packer"            # https://github.com/boxen/puppet-packer
+
+# Communication
+# github "slack" # deprecated
+github "screenhero"
+
+
+
